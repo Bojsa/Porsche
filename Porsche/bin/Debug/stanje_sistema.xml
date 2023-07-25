@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfPorsche xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Porsche>
+    <DatumIzmene>2019-11-05T01:36:23.8364574+01:00</DatumIzmene>
+    <Porse_Modeli>Porsche Carrera GT</Porse_Modeli>
+    <Podnaslov>Najekstremnijim automobilom koji je Porše ikada napravio!</Podnaslov>
+    <Tekst>Ovaj automobil pokretao je masivni V10 5.7 litarski motor koji je proizvodio neverovatnih 600 konjskih snaga. Zbog nedostatka nekih osnovnih vozačkih pomagala kao što je kontrola proklizavanja i ABS, Carrera GT je bio najopasniji Poršeov automobil.</Tekst>
+    <Kategorija>Carrera</Kategorija>
+    <Slika>C:\Users\Bojsa\Desktop\daily-driven-porsche-carrera-gt.jpg</Slika>
+  </Porsche>
+  <Porsche>
+    <DatumIzmene>2019-11-05T01:51:38.6425251+01:00</DatumIzmene>
+    <Porse_Modeli>Porsche 917</Porse_Modeli>
+    <Podnaslov>Verovatno jedan od najprepoznatljivijih i najikoničnijih trkačkih automobila</Podnaslov>
+    <Tekst>Porše je dug vremenski period dominirao trkačkim stazama i to baš zahvaljujući 917 modelu. Ovaj automobil je bio dostupan u različitim motornim varijantama, a najbrža varijanta je postizala brzinu od 0-100 km/h za 2.3 sekunde. Stiv Mekvin, poznati američki glumac, vozio je ovaj automobil u svojim filmovima.</Tekst>
+    <Kategorija>Carrera</Kategorija>
+    <Slika>C:\Users\Bojsa\Desktop\050_917.jpg</Slika>
+  </Porsche>
+  <Porsche>
+    <DatumIzmene>2019-11-05T01:54:20.3392142+01:00</DatumIzmene>
+    <Porse_Modeli>Porsche 4S</Porse_Modeli>
+    <Podnaslov> Ovaj automobil baziran je na liniji VW bube!</Podnaslov>
+    <Tekst>Neverovatan vizuelni utisak, sjajan dizajn i kabriolet opcija, učinili su da ovo bude najpopularniji Porše automobil svih vremena. Porše 356 je takođe postao najpopularniji sportski automobil svih vremena. Iako je star skoro 70 godina, ovaj automobil još uvek ostavlja neverovatan utisak.</Tekst>
+    <Kategorija>Taycan</Kategorija>
+    <Slika>C:\Users\Bojsa\Desktop\porshe-taycan-4s-006.jpg</Slika>
+  </Porsche>
+  <Porsche>
+    <DatumIzmene>2019-11-05T10:41:55.6152433+01:00</DatumIzmene>
+    <Porse_Modeli>Porsche 911 gt2</Porse_Modeli>
+    <Podnaslov>Lansiran 2010. godine, ovo je bio prvi hibridni trkački model koji nam je došao iz Porše kompanije.</Podnaslov>
+    <Tekst>Ovaj automobil razvija neverovatnu snagu od 480 konjskih snaga i pored hibridnog motora sadrži još 2 električna koji dodatno povećavaju snagu. Hibridni motor napravljen je od strane Formula 1 tima i doveo je do prave revolucije u trkanju. </Tekst>
+    <Kategorija>GT3 R Hybrid</Kategorija>
+    <Slika>C:\Users\Bojsa\Desktop\065125_Porsche_lines_up_with_an_even_more_efficient_911_GT3_R_Hybrid.jpg</Slika>
+  </Porsche>
+</ArrayOfPorsche>

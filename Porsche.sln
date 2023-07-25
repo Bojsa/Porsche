@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Porsche", "Porsche\Porsche.csproj", "{F45804DB-A292-4F08-ADBC-3ED1A117B980}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{FCED4AEA-7213-4CDE-912B-2DE0A8A76788}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F45804DB-A292-4F08-ADBC-3ED1A117B980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F45804DB-A292-4F08-ADBC-3ED1A117B980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F45804DB-A292-4F08-ADBC-3ED1A117B980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F45804DB-A292-4F08-ADBC-3ED1A117B980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCED4AEA-7213-4CDE-912B-2DE0A8A76788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCED4AEA-7213-4CDE-912B-2DE0A8A76788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCED4AEA-7213-4CDE-912B-2DE0A8A76788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCED4AEA-7213-4CDE-912B-2DE0A8A76788}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C93DF29-9FC3-481C-A7AD-F9A7DA550ABC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,138 @@
+C:\Visual Studio projects\Porsche\Porsche\bin\Debug\Porsche.exe.config
+C:\Visual Studio projects\Porsche\Porsche\bin\Debug\Porsche.exe
+C:\Visual Studio projects\Porsche\Porsche\bin\Debug\Porsche.pdb
+C:\Visual Studio projects\Porsche\Porsche\obj\Debug\Porsche.csprojAssemblyReference.cache
+C:\Visual Studio projects\Porsche\Porsche\obj\Debug\AddWindow.g.cs
+C:\Visual Studio projects\Porsche\Porsche\obj\Debug\MainWindow.g.cs
+C:\Visual Studio projects\Porsche\Porsche\obj\Debug\App.g.cs
+C:\Visual Studio projects\Porsche\Porsche\obj\Debug\Porsche_MarkupCompile.cache
+C:\Visual Studio projects\Porsche\Porsche\obj\Debug\Porsche_MarkupCompile.lref
+C:\Visual Studio projects\Porsche\Porsche\obj\Debug\AddWindow.baml
+C:\Visual Studio projects\Porsche\Porsche\obj\Debug\MainWindow.baml
+C:\Visual Studio projects\Porsche\Porsche\obj\Debug\Porsche.g.resources
+C:\Visual Studio projects\Porsche\Porsche\obj\Debug\Porsche.Properties.Resources.resources
+C:\Visual Studio projects\Porsche\Porsche\obj\Debug\Porsche.csproj.GenerateResource.cache
+C:\Visual Studio projects\Porsche\Porsche\obj\Debug\Porsche.csproj.CoreCompileInputs.cache
+C:\Visual Studio projects\Porsche\Porsche\obj\Debug\Porsche.exe
+C:\Visual Studio projects\Porsche\Porsche\obj\Debug\Porsche.pdb
+C:\Visual Studio projects\Porsche\Porsche\obj\Debug\AddWindow1.g.cs
+C:\Visual Studio projects\Porsche\Porsche\obj\Debug\AddWindow1.baml
+C:\Visual Studio projects\Porsche\Porsche\bin\Debug\Classes.dll
+C:\Visual Studio projects\Porsche\Porsche\bin\Debug\Classes.pdb
+C:\Visual Studio projects\Porsche\Porsche\obj\Debug\Porsche.csproj.CopyComplete
+G:\Visual Studio projects\Porsche\Porsche\bin\Debug\Porsche.exe.config
+G:\Visual Studio projects\Porsche\Porsche\bin\Debug\Porsche.exe
+G:\Visual Studio projects\Porsche\Porsche\bin\Debug\Porsche.pdb
+G:\Visual Studio projects\Porsche\Porsche\bin\Debug\Classes.dll
+G:\Visual Studio projects\Porsche\Porsche\bin\Debug\Classes.pdb
+G:\Visual Studio projects\Porsche\Porsche\obj\Debug\Porsche.csprojAssemblyReference.cache
+G:\Visual Studio projects\Porsche\Porsche\obj\Debug\AddWindow.g.cs
+G:\Visual Studio projects\Porsche\Porsche\obj\Debug\AddWindow1.g.cs
+G:\Visual Studio projects\Porsche\Porsche\obj\Debug\MainWindow.g.cs
+G:\Visual Studio projects\Porsche\Porsche\obj\Debug\App.g.cs
+G:\Visual Studio projects\Porsche\Porsche\obj\Debug\Porsche_MarkupCompile.cache
+G:\Visual Studio projects\Porsche\Porsche\obj\Debug\Porsche_MarkupCompile.lref
+G:\Visual Studio projects\Porsche\Porsche\obj\Debug\AddWindow.baml
+G:\Visual Studio projects\Porsche\Porsche\obj\Debug\AddWindow1.baml
+G:\Visual Studio projects\Porsche\Porsche\obj\Debug\MainWindow.baml
+G:\Visual Studio projects\Porsche\Porsche\obj\Debug\Porsche.g.resources
+G:\Visual Studio projects\Porsche\Porsche\obj\Debug\Porsche.Properties.Resources.resources
+G:\Visual Studio projects\Porsche\Porsche\obj\Debug\Porsche.csproj.GenerateResource.cache
+G:\Visual Studio projects\Porsche\Porsche\obj\Debug\Porsche.csproj.CoreCompileInputs.cache
+G:\Visual Studio projects\Porsche\Porsche\obj\Debug\Porsche.csproj.CopyComplete
+G:\Visual Studio projects\Porsche\Porsche\obj\Debug\Porsche.exe
+G:\Visual Studio projects\Porsche\Porsche\obj\Debug\Porsche.pdb
+C:\Users\Bojsa\Desktop\Porsche\Porsche\bin\Debug\Porsche.exe.config
+C:\Users\Bojsa\Desktop\Porsche\Porsche\bin\Debug\Porsche.exe
+C:\Users\Bojsa\Desktop\Porsche\Porsche\bin\Debug\Porsche.pdb
+C:\Users\Bojsa\Desktop\Porsche\Porsche\bin\Debug\Classes.dll
+C:\Users\Bojsa\Desktop\Porsche\Porsche\bin\Debug\Classes.pdb
+C:\Users\Bojsa\Desktop\Porsche\Porsche\obj\Debug\Porsche.csprojAssemblyReference.cache
+C:\Users\Bojsa\Desktop\Porsche\Porsche\obj\Debug\AddWindow.g.cs
+C:\Users\Bojsa\Desktop\Porsche\Porsche\obj\Debug\ChangeWindow.g.cs
+C:\Users\Bojsa\Desktop\Porsche\Porsche\obj\Debug\MainWindow.g.cs
+C:\Users\Bojsa\Desktop\Porsche\Porsche\obj\Debug\ReadWindow.g.cs
+C:\Users\Bojsa\Desktop\Porsche\Porsche\obj\Debug\App.g.cs
+C:\Users\Bojsa\Desktop\Porsche\Porsche\obj\Debug\Porsche_MarkupCompile.cache
+C:\Users\Bojsa\Desktop\Porsche\Porsche\obj\Debug\Porsche_MarkupCompile.lref
+C:\Users\Bojsa\Desktop\Porsche\Porsche\obj\Debug\AddWindow.baml
+C:\Users\Bojsa\Desktop\Porsche\Porsche\obj\Debug\ChangeWindow.baml
+C:\Users\Bojsa\Desktop\Porsche\Porsche\obj\Debug\MainWindow.baml
+C:\Users\Bojsa\Desktop\Porsche\Porsche\obj\Debug\ReadWindow.baml
+C:\Users\Bojsa\Desktop\Porsche\Porsche\obj\Debug\Porsche.g.resources
+C:\Users\Bojsa\Desktop\Porsche\Porsche\obj\Debug\Porsche.Properties.Resources.resources
+C:\Users\Bojsa\Desktop\Porsche\Porsche\obj\Debug\Porsche.csproj.GenerateResource.cache
+C:\Users\Bojsa\Desktop\Porsche\Porsche\obj\Debug\Porsche.csproj.CoreCompileInputs.cache
+C:\Users\Bojsa\Desktop\Porsche\Porsche\obj\Debug\Porsche.csproj.CopyComplete
+C:\Users\Bojsa\Desktop\Porsche\Porsche\obj\Debug\Porsche.exe
+C:\Users\Bojsa\Desktop\Porsche\Porsche\obj\Debug\Porsche.pdb
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\Porsche PZ1\Porsche\bin\Debug\Porsche.exe.config
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\Porsche PZ1\Porsche\bin\Debug\Porsche.exe
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\Porsche PZ1\Porsche\bin\Debug\Porsche.pdb
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\Porsche PZ1\Porsche\bin\Debug\Classes.dll
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\Porsche PZ1\Porsche\bin\Debug\Classes.pdb
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\Porsche PZ1\Porsche\obj\Debug\Porsche.csprojAssemblyReference.cache
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\Porsche PZ1\Porsche\obj\Debug\AddWindow.g.cs
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\Porsche PZ1\Porsche\obj\Debug\ChangeWindow.g.cs
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\Porsche PZ1\Porsche\obj\Debug\MainWindow.g.cs
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\Porsche PZ1\Porsche\obj\Debug\ReadWindow.g.cs
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\Porsche PZ1\Porsche\obj\Debug\App.g.cs
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\Porsche PZ1\Porsche\obj\Debug\Porsche_MarkupCompile.cache
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\Porsche PZ1\Porsche\obj\Debug\Porsche_MarkupCompile.lref
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\Porsche PZ1\Porsche\obj\Debug\AddWindow.baml
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\Porsche PZ1\Porsche\obj\Debug\ChangeWindow.baml
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\Porsche PZ1\Porsche\obj\Debug\MainWindow.baml
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\Porsche PZ1\Porsche\obj\Debug\ReadWindow.baml
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\Porsche PZ1\Porsche\obj\Debug\Porsche.g.resources
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\Porsche PZ1\Porsche\obj\Debug\Porsche.Properties.Resources.resources
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\Porsche PZ1\Porsche\obj\Debug\Porsche.csproj.GenerateResource.cache
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\Porsche PZ1\Porsche\obj\Debug\Porsche.csproj.CopyComplete
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\Porsche PZ1\Porsche\obj\Debug\Porsche.exe
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\Porsche PZ1\Porsche\obj\Debug\Porsche.pdb
+C:\Users\Bojsa\Desktop\Porsche PZ1\Porsche\bin\Debug\Porsche.exe.config
+C:\Users\Bojsa\Desktop\Porsche PZ1\Porsche\bin\Debug\Porsche.exe
+C:\Users\Bojsa\Desktop\Porsche PZ1\Porsche\bin\Debug\Porsche.pdb
+C:\Users\Bojsa\Desktop\Porsche PZ1\Porsche\bin\Debug\Classes.dll
+C:\Users\Bojsa\Desktop\Porsche PZ1\Porsche\bin\Debug\Classes.pdb
+C:\Users\Bojsa\Desktop\Porsche PZ1\Porsche\obj\Debug\Porsche.csprojAssemblyReference.cache
+C:\Users\Bojsa\Desktop\Porsche PZ1\Porsche\obj\Debug\AddWindow.g.cs
+C:\Users\Bojsa\Desktop\Porsche PZ1\Porsche\obj\Debug\ChangeWindow.g.cs
+C:\Users\Bojsa\Desktop\Porsche PZ1\Porsche\obj\Debug\MainWindow.g.cs
+C:\Users\Bojsa\Desktop\Porsche PZ1\Porsche\obj\Debug\ReadWindow.g.cs
+C:\Users\Bojsa\Desktop\Porsche PZ1\Porsche\obj\Debug\App.g.cs
+C:\Users\Bojsa\Desktop\Porsche PZ1\Porsche\obj\Debug\Porsche_MarkupCompile.cache
+C:\Users\Bojsa\Desktop\Porsche PZ1\Porsche\obj\Debug\Porsche_MarkupCompile.lref
+C:\Users\Bojsa\Desktop\Porsche PZ1\Porsche\obj\Debug\AddWindow.baml
+C:\Users\Bojsa\Desktop\Porsche PZ1\Porsche\obj\Debug\ChangeWindow.baml
+C:\Users\Bojsa\Desktop\Porsche PZ1\Porsche\obj\Debug\MainWindow.baml
+C:\Users\Bojsa\Desktop\Porsche PZ1\Porsche\obj\Debug\ReadWindow.baml
+C:\Users\Bojsa\Desktop\Porsche PZ1\Porsche\obj\Debug\Porsche.g.resources
+C:\Users\Bojsa\Desktop\Porsche PZ1\Porsche\obj\Debug\Porsche.Properties.Resources.resources
+C:\Users\Bojsa\Desktop\Porsche PZ1\Porsche\obj\Debug\Porsche.csproj.GenerateResource.cache
+C:\Users\Bojsa\Desktop\Porsche PZ1\Porsche\obj\Debug\Porsche.csproj.CopyComplete
+C:\Users\Bojsa\Desktop\Porsche PZ1\Porsche\obj\Debug\Porsche.exe
+C:\Users\Bojsa\Desktop\Porsche PZ1\Porsche\obj\Debug\Porsche.pdb
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Porsche\bin\Debug\Porsche.exe.config
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Porsche\bin\Debug\Porsche.exe
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Porsche\bin\Debug\Porsche.pdb
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Porsche\bin\Debug\Classes.dll
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Porsche\bin\Debug\Classes.pdb
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Porsche\obj\Debug\Porsche.csproj.AssemblyReference.cache
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Porsche\obj\Debug\AddWindow.g.cs
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Porsche\obj\Debug\ChangeWindow.g.cs
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Porsche\obj\Debug\MainWindow.g.cs
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Porsche\obj\Debug\ReadWindow.g.cs
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Porsche\obj\Debug\App.g.cs
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Porsche\obj\Debug\Porsche_MarkupCompile.cache
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Porsche\obj\Debug\Porsche_MarkupCompile.lref
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Porsche\obj\Debug\AddWindow.baml
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Porsche\obj\Debug\ChangeWindow.baml
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Porsche\obj\Debug\MainWindow.baml
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Porsche\obj\Debug\ReadWindow.baml
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Porsche\obj\Debug\Porsche.g.resources
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Porsche\obj\Debug\Porsche.Properties.Resources.resources
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Porsche\obj\Debug\Porsche.csproj.GenerateResource.cache
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Porsche\obj\Debug\Porsche.csproj.CoreCompileInputs.cache
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Porsche\obj\Debug\Porsche.csproj.CopyComplete
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Porsche\obj\Debug\Porsche.exe
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Porsche\obj\Debug\Porsche.pdb

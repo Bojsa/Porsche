@@ -1,0 +1,43 @@
+﻿<Window x:Class="Porsche.AddWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Porsche"
+        mc:Ignorable="d"
+        Title="AddWindow" Height="520" Width="800">
+    <Window.Background>
+        <ImageBrush ImageSource="Siva.jpg"/>
+    </Window.Background>
+    <Grid>
+        <Label x:Name="labelPorse_Modeli_Greska"  Content="" Foreground="Red" HorizontalAlignment="Left" Margin="238,61,0,0" VerticalAlignment="Top" Height="33" Width="490" FontSize="20"/>
+        <Label x:Name="labelPorse_Modeli"  Content="Porse_Modeli" HorizontalAlignment="Left" Margin="33,12,0,0" VerticalAlignment="Top" Height="49" Width="131" FontSize="20"/>
+        <Label x:Name="labelPodnaslov" Content="Podnaslov" HorizontalAlignment="Left" Margin="33,99,0,0" VerticalAlignment="Top" Height="58" Width="106" FontSize="20"/>
+        <Label x:Name="labelTekst" Content="Text" HorizontalAlignment="Left" Margin="33,172,0,0" VerticalAlignment="Top" Height="48" Width="106" FontSize="20"/>
+        <Label x:Name="labelKategorija" Content="Kategorija" HorizontalAlignment="Left" Margin="33,330,0,0" VerticalAlignment="Top" Height="48" Width="106" FontSize="20" RenderTransformOrigin="0.652,2.175"/>
+        <Button x:Name="buttonDodaj" Content="Dodaj" Background="White" HorizontalAlignment="Left" Margin="504,435,0,0" VerticalAlignment="Top" Width="105" Height="40" FontSize="20" Click="buttonDodaj_Click"/>
+        <Button x:Name="buttonIzadji" Background="White" Content="Izadji" HorizontalAlignment="Left" Margin="662,435,0,0" VerticalAlignment="Top" Width="97" Height="40" FontSize="20" RenderTransformOrigin="0.684,0.425" Click="buttonIzadji_Click"/>
+        <ComboBox x:Name="comboBoxKategorija" HorizontalAlignment="Left" Margin="238,330,0,0" VerticalAlignment="Top" Width="281" Height="48" RenderTransformOrigin="0.525,2.251"/>
+        <TextBox x:Name="textBoxPorse_Modeli"  HorizontalAlignment="Left" Height="51" Margin="238,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="490" FontSize="20"/>
+        <TextBox x:Name="textBoxPodnaslov" HorizontalAlignment="Left" Height="37" Margin="238,99,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="490" FontSize="20"/>
+        <TextBox x:Name="textBoxTekst"  HorizontalAlignment="Left" Height="102" Margin="238,190,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="490" FontSize="20"/>
+        <Label x:Name="textBoxSlika" Content="Naslovna slika" HorizontalAlignment="Left" Margin="33,383,0,0" VerticalAlignment="Top" RenderTransformOrigin="-5.304,-1.278" Height="54" Width="167" FontSize="20"/>
+        <Button x:Name="buttonDodajSliku" Background="White" Content="Dodaj SLiku" HorizontalAlignment="Left" Margin="40,439,0,0" VerticalAlignment="Top" Width="124" Height="40" FontSize="20" RenderTransformOrigin="0.684,0.425" Click="buttonDodajSliku_Click"/>
+        <Image x:Name="image1" HorizontalAlignment="Left" Height="92" Margin="238,383,0,0" VerticalAlignment="Top" Width="103"
+              Stretch="Fill"/>
+        <Label x:Name="labelPodnaslov_Greska" Foreground="Red" FontSize="20" Content="" HorizontalAlignment="Left" Margin="238,141,0,0" VerticalAlignment="Top" Height="44" Width="422"/>
+        <Label x:Name="labelTekst_Greska" Foreground="Red" FontSize="20" Content="" HorizontalAlignment="Left" Margin="238,297,0,0" VerticalAlignment="Top" Height="33" Width="490"/>
+        <Label x:Name="labelKategorija_Greska" Foreground="Red" FontSize="20" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="573,336,0,0" RenderTransformOrigin="0.5,0.5" Height="45" Width="173">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-0.233"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label x:Name="labelSlika_Greska" Foreground="Red" FontSize="20" Content="" HorizontalAlignment="Left" Margin="346,383,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.337,-0.076" Height="47" Width="263"/>
+
+    </Grid>
+</Window>

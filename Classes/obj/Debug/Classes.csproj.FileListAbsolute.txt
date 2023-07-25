@@ -1,0 +1,29 @@
+C:\Visual Studio projects\Porsche\Classes\bin\Debug\Classes.dll
+C:\Visual Studio projects\Porsche\Classes\bin\Debug\Classes.pdb
+C:\Visual Studio projects\Porsche\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Visual Studio projects\Porsche\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Visual Studio projects\Porsche\Classes\obj\Debug\Classes.dll
+C:\Visual Studio projects\Porsche\Classes\obj\Debug\Classes.pdb
+G:\Visual Studio projects\Porsche\Classes\bin\Debug\Classes.dll
+G:\Visual Studio projects\Porsche\Classes\bin\Debug\Classes.pdb
+G:\Visual Studio projects\Porsche\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+G:\Visual Studio projects\Porsche\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+G:\Visual Studio projects\Porsche\Classes\obj\Debug\Classes.dll
+G:\Visual Studio projects\Porsche\Classes\obj\Debug\Classes.pdb
+C:\Users\Bojsa\Desktop\Porsche\Classes\bin\Debug\Classes.dll
+C:\Users\Bojsa\Desktop\Porsche\Classes\bin\Debug\Classes.pdb
+C:\Users\Bojsa\Desktop\Porsche\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\Bojsa\Desktop\Porsche\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Bojsa\Desktop\Porsche\Classes\obj\Debug\Classes.dll
+C:\Users\Bojsa\Desktop\Porsche\Classes\obj\Debug\Classes.pdb
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\Porsche PZ1\Classes\bin\Debug\Classes.dll
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\Porsche PZ1\Classes\bin\Debug\Classes.pdb
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\Porsche PZ1\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\Porsche PZ1\Classes\obj\Debug\Classes.dll
+C:\Users\Bojsa\Desktop\FTN-PR\Godina 3\HCI\Vezbe\Porsche PZ1\Classes\obj\Debug\Classes.pdb
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Classes\bin\Debug\Classes.dll
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Classes\bin\Debug\Classes.pdb
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Classes\obj\Debug\Classes.dll
+C:\Users\Nebojsa Vasic\Desktop\Porsche PZ1\Classes\obj\Debug\Classes.pdb
